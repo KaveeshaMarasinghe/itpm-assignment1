@@ -1,4 +1,4 @@
-# itpm-assignment1# ITPM Assignment 1 ï¿½ Playwright Tests
+# ITPM Assignment 1 – Playwright Tests
 
 ## Requirements
 - Node.js (LTS recommended)
